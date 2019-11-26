@@ -153,10 +153,13 @@ address{
 		width:140px;
 	}
 	.paragraf{
-		margin-left:40px;
+		text-align:center;
 	}
-	.forma{
-		margin-top:100px;
+	.paragraf1{
+		text-align:center;
+	}
+	h2{
+		text-align:center;
 	}
 }
 @media screen and (max-width:600px)
@@ -173,10 +176,13 @@ address{
 		width:170px;
 	}
 	.paragraf{
-		margin-left:75px;
+		text-align: center;
 	}
-	textarea{
-		width:80%;
+	.paragraf1{
+		text-align: center;
+	}
+	h2{
+		text-align:center;
 	}
 }
 h2{
