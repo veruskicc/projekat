@@ -138,30 +138,37 @@ address{
 	}
 	.naslov,.naslov1{
 		text-align: center;
+		font-size:60px;
+	}
+	.sadrzaj{
+		text-align: justify;
+		font-size: 20px;
+	}
+	.galerija img{
+		margin-left:120px;
+		height:150px;
+		width:200px;}
+}
+@media screen and (max-width:600px)
+{
+	ul li,li a{
+		width:100%;
+		display:inline;
+		float:left;
+	}
+	.naslov,.naslov1{
+		text-align: center;
 		font-size:50px;
 	}
 	.sadrzaj{
 		text-align: justify;
 		font-size: 15px;
 	}
-	.galerija img{
+		.galerija img{
 		margin-left:120px;
-		height:120px;
-		width:140px;}
-}
-@media screen and (max-width:600px)
-{
-	ul li,li a{
-		width:100%;
-	}
-	.galerija img{
-		margin-top:200px;
-		margin-left:120px;
-		margin-bottom:20px;
-		padding-top:10px;
 		height:150px;
-		width:170px;}
-}
+		width:200px;}
+	}
 h2{
 	font-family:Advent Pro;
 	font-style: italic;
