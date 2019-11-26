@@ -133,8 +133,6 @@ address{
 {
 	ul li,li a{
 		width:100%;
-		display:inline;
-		float:left;
 	}
 	.naslov,.naslov1{
 		text-align: center;
@@ -153,8 +151,6 @@ address{
 {
 	ul li,li a{
 		width:100%;
-		display:inline;
-		float:left;
 	}
 	.naslov,.naslov1{
 		text-align: center;
