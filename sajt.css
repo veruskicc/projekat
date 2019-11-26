@@ -40,20 +40,16 @@ li a:hover{
 }
 
 .galerija{
-	display:inline-block;
+	display:inline;
 }
 .galerija img{
 	width:250px;
 	height: 200px;
 	float:left;
 	box-sizing: border-box;
-	display: inline-block;
+	display: inline;
 	position: relative;
 	margin:10px 2px 10px 2px;
-}
-.opisi{
-	display:inline-block;
-	float:left;
 }
 .paragraf{
 	text-align:center;
