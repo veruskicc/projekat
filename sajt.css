@@ -137,6 +137,8 @@ address{
 {
 	ul li,li a{
 		width:100%;
+		display:inline-block;
+		float:left;
 	}
 	.galerija img{
 		margin-left:120px;
