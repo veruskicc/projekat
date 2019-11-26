@@ -25,7 +25,6 @@ li a{
 	display:block;
 	color:white;
 	text-align:justify;
-	padding:14px 16px;
 	text-decoration:none;
 	font-family:Advent Pro;
 	font-style:italic;
@@ -46,7 +45,6 @@ li a:hover{
 	width:250px;
 	height: 200px;
 	float:left;
-	display: inline-block;
 	position: relative;
 	margin:10px 2px 10px 2px;
 }
