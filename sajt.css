@@ -133,8 +133,16 @@ address{
 {
 	ul li,li a{
 		width:100%;
-		display:inline-block;
+		display:inline;
 		float:left;
+	}
+	.naslov,.naslov1{
+		text-align: center;
+		font-size:50px;
+	}
+	.sadrzaj{
+		text-align: justify;
+		font-size: 15px;
 	}
 	.galerija img{
 		margin-left:120px;
