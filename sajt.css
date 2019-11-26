@@ -150,7 +150,7 @@ address{
 	.galerija img{
 		margin-left:120px;
 		height:120px;
-		width:140px;
+		width:140px;}
 }
 @media screen and (max-width:600px)
 {
@@ -163,7 +163,7 @@ address{
 		margin-bottom:20px;
 		padding-top:10px;
 		height:150px;
-		width:170px;
+		width:170px;}
 }
 h2{
 	font-family:Advent Pro;
