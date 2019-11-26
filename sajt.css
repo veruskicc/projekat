@@ -24,13 +24,12 @@ li{
 li a{
 	display:block;
 	color:white;
+	padding:14px 16px;
 	text-align:justify;
 	text-decoration:none;
 	font-family:Advent Pro;
 	font-style:italic;
 	background:SaddleBrown;
-	width:110px;
-	height:30px;
 	line-height:30px;
 	font-size:18px;
 }
