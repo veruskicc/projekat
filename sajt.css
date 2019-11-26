@@ -151,16 +151,6 @@ address{
 		margin-left:120px;
 		height:120px;
 		width:140px;
-	}
-	.paragraf{
-		text-align:center;
-	}
-	.paragraf1{
-		text-align:center;
-	}
-	h2{
-		text-align:center;
-	}
 }
 @media screen and (max-width:600px)
 {
@@ -174,16 +164,6 @@ address{
 		padding-top:10px;
 		height:150px;
 		width:170px;
-	}
-	.paragraf{
-		text-align: center;
-	}
-	.paragraf1{
-		text-align: center;
-	}
-	h2{
-		text-align:center;
-	}
 }
 h2{
 	font-family:Advent Pro;
