@@ -18,62 +18,6 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 
 <url>
 
-    <loc>https://veruskicc.github.io/1</loc>
-
-
-
-    <lastmod>2019-11-26</lastmod>
-
-    <changefreq>monthly</changefreq>
-
-    <priority>0.5</priority>
-
-</url>  
-
-<url>
-
-    <loc>https://veruskicc.github.io/2</loc>
-
-
-
-    <lastmod>2019-11-26</lastmod>
-
-    <changefreq>monthly</changefreq>
-
-    <priority>0.5</priority>
-
-</url>  
-
-<url>
-
-    <loc>https://veruskicc.github.io/3</loc>
-
-
-
-    <lastmod>2019-11-26</lastmod>
-
-    <changefreq>monthly</changefreq>
-
-    <priority>0.5</priority>
-
-</url>  
-
-<url>
-
-    <loc>https://veruskicc.github.io/4</loc>
-
-
-
-    <lastmod>2019-11-26</lastmod>
-
-    <changefreq>monthly</changefreq>
-
-    <priority>0.5</priority>
-
-</url>  
-
-<url>
-
     <loc>https://veruskicc.github.io/sdkpreparse</loc>
 
 
